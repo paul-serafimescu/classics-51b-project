@@ -9,7 +9,7 @@ import 'react-slideshow-image/dist/styles.css'
 
 const slideImages = [
     {
-        url: '/images/danube_crossing.jpg',
+        url: './images/danube_crossing.jpg',
         caption: 'Roman soldiers crossing the Danube River',
         description: `Located near the bottom of the Column of Trajan, this scene depicts Roman soldiers preparing to attack Dacia by first crossing the Danube River using a pontoon bridge. The Dacians were attacking Roman settlements near Moesia in the Balkans, and killed the Roman governor the province (Wheeler).
                       Shown in the background are arch-like structures, which suggest that the area has already been conquered by the Romans. The region's only remaining threat are the Dacians. The war, considered to the the Second Dacian War, comes after Emperor Domitian's failure to subjugate the Dacians.
@@ -19,7 +19,7 @@ const slideImages = [
         citation: 'Lendering, Jona. Rome, Column of Trajan, Bridge across the Danube. 29 July 2020, https://www.livius.org/pictures/italy/rome/rome-column-of-trajan/column-of-trajan-bridge-across-the-danube/. Accessed 4 June 2022. '
     },
     {
-        url: '/images/battle_scene.jpg',
+        url: './images/battle_scene.jpg',
         caption: 'Battle between Romans and Dacians',
         description: `Located toward the bottom-middle of the column, this scene depicts a fierce battle between the Romans and Dacians. The weapons have eroded due to weathering of time, but the ideas remain intact. Overall, battle scenes are very popular within the story
                       shown throughout the column. The symbols shown across the relief have two meanings. Firstly, it is to distinguish between Romans and Dacians, but it also reveals that the Dacians may have had organized battalions and army groups (Wheeler). The Romans on
@@ -28,7 +28,7 @@ const slideImages = [
         citation: 'Zucker, Steven. “Battle between Romans and Dacians.” Smart History, https://smarthistory.org/column-of-trajan/. Accessed 4 June 2022.'
     },
     {
-        url: '/images/decebalus_suicide.jpg',
+        url: './images/decebalus_suicide.jpg',
         caption: 'The suicide of the Dacian King Decebal',
         description: `Before the Second Dacian War waged by Trajan, the Roman Emperor also attacked in 101-102 CE. Although this other war did not yield much military conquest, it diminished the power Decebalus had over Dacian territory (Wheeler). By 106 CE, when Trajan finally conquered Dacia, Decebalus was not willing
                       to accept Roman terms of surrender and capture, and chose to kill himself by supposedly dragging a blade along his neck. This scene is depicted in the Column in Rome. It is a powerful symbol of a barbarian leader giving up his life after Roman victory. It could also be interpreted as a sign of respect
