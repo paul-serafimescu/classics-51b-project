@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/classics-51b-project/static/css/main.e6715194.css",
+    "main.js": "/classics-51b-project/static/js/main.bdc8ec9c.js",
+    "static/js/787.7d6848b7.chunk.js": "/classics-51b-project/static/js/787.7d6848b7.chunk.js",
+    "index.html": "/classics-51b-project/index.html",
+    "main.e6715194.css.map": "/classics-51b-project/static/css/main.e6715194.css.map",
+    "main.bdc8ec9c.js.map": "/classics-51b-project/static/js/main.bdc8ec9c.js.map",
+    "787.7d6848b7.chunk.js.map": "/classics-51b-project/static/js/787.7d6848b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6715194.css",
+    "static/js/main.bdc8ec9c.js"
+  ]
+}
