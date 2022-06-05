@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  padding: 15px;
+}
+
+.slideshow-container {
+  width: 90%;
+  position: relative;
+  margin: 0 auto;
+}
